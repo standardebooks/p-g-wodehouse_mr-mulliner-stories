@@ -46,39 +46,42 @@
 		<meta property="term" refines="#subject-5">sh2008104850</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">TAG</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Short stories featuring the eccentric (and hiliarous) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;This is a collection short stories written by the beloved British author &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;. The first were published in 1927, and all feature the eccentric and entertaining Mr. Mulliner, always ready with a tale for his willing audience at the Anglers’ Rest pub.&lt;/p&gt;
+			&lt;p&gt;Mr. Mulliner is a master storyteller, and each night he presents a different tale of his illustrious—and sometimes outlandish—relatives. They are, to a person, witty, talented, unflappable, and yet they continually find themselves in the sort of pickles that only P. G. Wodehouse could create.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70222</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/dli.bengal.10689.22010</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Meet_Mr_Mulliner</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_mr-mulliner-stories</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Giovanni Boldini</dc:contributor>
+		<meta property="file-as" refines="#artist">Boldini, Giovannai</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Giovanni_Boldini</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2017129417</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Jonathan McPherson</dc:contributor>
+		<meta property="file-as" refines="#producer-1">McPherson, Jonathan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://jmcphers.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
