@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="a-slice-of-life.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>The lowercase letters are an intentional stylistic choice by Wodehouse, intended to give a character a lowercase surname for humorous effect.</reason>
+		</ignore>
+		<ignore>
+			<code>t-057</code>
+			<reason>The lowercase letters are an intentional stylistic choice by Wodehouse, intended to give a character a lowercase surname for humorous effect.</reason>
+		</ignore>
+	</file>
+	<file path="honeysuckle-cottage.xhtml">
+		<ignore>
+			<code>t-063</code>
+			<reason>The phrase "in Toto" here is not a non-English confusable phrase, but a reference to a dog whose name happens to be Toto.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
