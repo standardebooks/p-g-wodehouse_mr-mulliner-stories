@@ -52,7 +52,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This is a collection of short stories written by the beloved British author &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;. They were published from 1927-1972, first in serial and then in collections.&lt;/p&gt;
+			&lt;p&gt;This is a collection of short stories written by the beloved British author &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;. They were published from 1927–1972, first in serial and then in collections. This collection features only the earlier Mulliner stories, as they are the only ones currently in the public domain; later stories will be added as their copyrights expire.&lt;/p&gt;
 			&lt;p&gt;All the stories feature the eccentric and entertaining Mr. Mulliner, always ready with a tale for his willing audience at the Anglers’ Rest pub. Mr. Mulliner is a master storyteller, and, in the finest tradition of fishermen everywhere, his stories are absolute whoppers, each featuring his illustrious—and sometimes outlandish—relatives. The Mulliners are, to a person, witty, talented, unflappable, and yet they continually find themselves in the sort of pickles that only P. G. Wodehouse could create.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
