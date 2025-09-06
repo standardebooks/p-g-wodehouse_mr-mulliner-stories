@@ -2,11 +2,11 @@
 <se-lint-ignore>
 	<file path="a-slice-of-life.xhtml">
 		<ignore>
-			<code>y-009</code>
+			<code>t-057</code>
 			<reason>The lowercase letters are an intentional stylistic choice by Wodehouse, intended to give a character a lowercase surname for humorous effect.</reason>
 		</ignore>
 		<ignore>
-			<code>t-057</code>
+			<code>y-009</code>
 			<reason>The lowercase letters are an intentional stylistic choice by Wodehouse, intended to give a character a lowercase surname for humorous effect.</reason>
 		</ignore>
 	</file>
