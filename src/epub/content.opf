@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/mr-mulliner-stories</dc:identifier>
 		<dc:date>2023-07-05T15:03:43Z</dc:date>
@@ -52,11 +52,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The eccentric and entertaining Mr. Mulliner is always ready with a tale for his willing audience at the Anglers’ Rest pub. He’s a master storyteller, and, in the finest tradition of fishermen everywhere, his stories are absolute whoppers, each featuring his illustrious—and sometimes outlandish—relatives. The Mulliners are, to a person, witty, talented, and unflappable, and yet they continually find themselves in the sort of pickles that only &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; could create.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of the Mr. Mulliner stories that are in the U.S. public domain.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70222</dc:source>
 		<dc:source>https://archive.org/details/dli.bengal.10689.22010</dc:source>
