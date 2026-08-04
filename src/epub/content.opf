@@ -52,7 +52,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</dc:abstract>
+		<meta property="schema:abstract">A collection of short stories featuring the eccentric (and hilarious) Mr. Mulliner, who regales the patrons of the Anglers’ Rest with tales of his colorful and amusing relatives.</meta>
 		<dc:description>
 			&lt;p&gt;The eccentric and entertaining Mr. Mulliner is always ready with a tale for his willing audience at the Anglers’ Rest pub. He’s a master storyteller, and, in the finest tradition of fishermen everywhere, his stories are absolute whoppers, each featuring his illustrious—and sometimes outlandish—relatives. The Mulliners are, to a person, witty, talented, and unflappable, and yet they continually find themselves in the sort of pickles that only &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; could create.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of the Mr. Mulliner stories that are in the U.S. public domain.&lt;/p&gt;
